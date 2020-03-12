@@ -1,0 +1,2 @@
+## this pulls down numpy, scipy and pandas as dependencies
+statsmodels==0.10.1
