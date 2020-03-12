@@ -13,6 +13,8 @@ The cheat sheet mentioned in the blog post is here:
 
 ![cheat sheet](docs/cheet-sheet.png)
 
+The different examples from the blog post are:
+
 ### Analysing proportions
 * Compare the proportion in a sample to an expected value: 
 [1-sample z test](examples/proportions/1-sample-z-test.py)
@@ -35,7 +37,6 @@ The cheat sheet mentioned in the blog post is here:
 * Check single sample to see if the discrete variables are independent
 [chi-squared independence](examples/frequencies/independence.py)
 
-The different examples from the blog post are:
 
 ## Setting up the project
 
